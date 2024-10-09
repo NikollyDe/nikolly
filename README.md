@@ -4,4 +4,4 @@
  Estou estudando na Alura <br/>
  Estou me desevolvendo na linguagem JavaScript <br/>
  utilizou esse espaçou para minha organização e compartilhamento dos meus projetos desevolvidos <br/>   
- [zero two](https://j.gifs.com/gpJLGl.gif)
+ ![zero two](https://j.gifs.com/gpJLGl.gif)
